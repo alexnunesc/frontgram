@@ -1,9 +1,11 @@
-import LikeButton from './app/components/linkButton/LikeButton';
+// import LikeButton from './app/components/linkButton/LikeButton';
+import Home from './app/pages/Home/Home';
 
 function App() {
   return (
     <div>
-      <LikeButton />
+      {/* <LikeButton /> */}
+      <Home />
     </div>
   );
 }
